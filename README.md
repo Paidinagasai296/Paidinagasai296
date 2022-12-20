@@ -1,4 +1,4 @@
-![MasterHead](https://upload.wikimedia.org/wikipedia/commons/5/5a/Animated_Wallpaper_Windows_10_-_Wallpaper_Engine.gif)
+![MasterHead](https://media.tenor.com/bv3p_XvmcoIAAAAd/balayya-balakrishna.gif)
 
 <h1 align="center">Hi 👋, I'm Nagasai Paidi 😃</h1>
 <h3 align="center">A passionate developer exploring Machine Learning,AI and Solving real world Problems</h3>
