@@ -1,30 +1,24 @@
 ![MasterHead](https://upload.wikimedia.org/wikipedia/commons/5/5a/Animated_Wallpaper_Windows_10_-_Wallpaper_Engine.gif)
 
-<h1 align="center">Hi 👋, I'm Rohit Kumar Gundu 😃</h1>
+<h1 align="center">Hi 👋, I'm Nagasai Paidi 😃</h1>
 <h3 align="center">A passionate developer exploring Machine Learning,AI and Solving real world Problems</h3>
 
 
 
 
-- 🔭 I’m currently working on 👨‍💻👨‍💻 [Leet Code Algorithms , Python](https://github.com/Rohit-Shines/Leet-Code--123Shines)
+- 🔭 I’m currently working on 👨‍💻👨‍💻 [Leet Code Algorithms , Python](https://github.com/Paidinagasai296)
 
 - 🌱 I’m currently learning 🧠 🧠 **Machine Learning , AI,**
-
-- 👨‍💻 My personal wesite in Progres Rohit website in progress
-
-https://rohitkumargundu.w3spaces.com/
 
 - 👯 I have domain knowledge of 📚📖 **Health care , Insurance**
 
 - 🤝 I’m looking for help with 🏢👨🏼‍🏭 **Job roles fits my skill set**
 
-- 👨‍💻 All of my projects are available at 📽️📽️ [https://github.com/Rohit-Shines?tab=repositories](https://github.com/Rohit-Shines?tab=repositories)
+- 💬 Ask me about 🦸‍♂️🦸‍♂️ **Python, Network Security, TCPIP 
 
-- 💬 Ask me about 🦸‍♂️🦸‍♂️ **Python, HIPAA, HL7 , Integration Tools**
+- 📫 How to reach me 📩📩 **paidinagasai296@gmail.com**
 
-- 📫 How to reach me 📩📩 **rohityahoooo@gmail.com**
-
-- 📄 Know about my experiences 👀👀 [https://www.linkedin.com/in/follow-me/](https://www.linkedin.com/in/follow-me/)
+- 📄 Know about my experiences 👀👀 [https://www.linkedin.com/in/follow-me/](https://www.linkedin.com/in/nagasaipaidi/)
 
 - ⚡ Fun fact 🕵️‍♂️🕵️‍♂️ **I have written Algorithm on how to crack vegas Casino Roulette**
 
