@@ -1,4 +1,4 @@
-![MasterHead](https://media.tenor.com/bv3p_XvmcoIAAAAd/balayya-balakrishna.gif)
+![MasterHead](https://media.tenor.com/TfG_bJ_Bvz0AAAAd/balayya-babu-bala-krishna.gif)
 
 <h1 align="center">Hi 👋, I'm Nagasai Paidi 😃</h1>
 <h3 align="center">A passionate developer exploring Machine Learning,AI and Solving real world Problems</h3>
