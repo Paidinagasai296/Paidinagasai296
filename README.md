@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on 👨‍💻👨‍💻 [Leet Code Algorithms , Python](https://github.com/Paidinagasai296)
 
-- 🌱 I’m currently learning 🧠 🧠 **Machine Learning , AI,**
+- 🌱 I’m currently learning 🧠 🧠 **SalesForce Network Admin **
 
 - 👯 I have domain knowledge of 📚📖 **Health care , Insurance**
 
