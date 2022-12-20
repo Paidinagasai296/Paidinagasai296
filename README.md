@@ -1,7 +1,7 @@
 ![MasterHead](https://media.tenor.com/TfG_bJ_Bvz0AAAAd/balayya-babu-bala-krishna.gif)
 
 <h1 align="center">Hi 👋, I'm Nagasai Paidi 😃</h1>
-<h3 align="center">A passionate developer exploring Machine Learning,AI and Solving real world Problems</h3>
+<h3 align="center">A passionate developer exploring SalesForce, and Solving real world Problems</h3>
 
 
 
@@ -14,13 +14,12 @@
 
 - 🤝 I’m looking for help with 🏢👨🏼‍🏭 **Job roles fits my skill set**
 
-- 💬 Ask me about 🦸‍♂️🦸‍♂️ **Python, Network Security, TCPIP 
+- 💬 Ask me about 🦸‍♂️🦸‍♂️ **Python, Network Security, TCP/IP 
 
 - 📫 How to reach me 📩📩 **paidinagasai296@gmail.com**
 
 - 📄 Know about my experiences 👀👀 [https://www.linkedin.com/in/follow-me/](https://www.linkedin.com/in/nagasaipaidi/)
 
-- ⚡ Fun fact 🕵️‍♂️🕵️‍♂️ **I have written Algorithm on how to crack vegas Casino Roulette**
 
 
 <h3 align="left">Languages and Tools:</h3>
